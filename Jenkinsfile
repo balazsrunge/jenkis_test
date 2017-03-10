@@ -1,4 +1,4 @@
 stage ("test") {
-	//first test
+	build job: 'demo_job'
 }
 
